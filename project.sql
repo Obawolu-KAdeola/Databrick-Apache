@@ -12,7 +12,6 @@ SELECT
   *
 FROM
   q1Results
-yes
 
 --Modify the columns in table discounts2 to match the provided schema.
 
